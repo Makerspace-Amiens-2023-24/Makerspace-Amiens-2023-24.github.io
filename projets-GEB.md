@@ -1,6 +1,6 @@
 ---
-title: Projets
-subtitle: Liste de projets
+title: Projets d'option GEB I2
+subtitle: Liste des projets
 layout: documentation-category
 type: projet-GEB
 show_sidebar: false
