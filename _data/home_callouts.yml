@@ -1,0 +1,23 @@
+style: is-dark
+height: is-medium
+items:
+  - title: Otto - Le robot
+    icon: fa-info-circle
+    description: >
+      Projet I1
+    call_to_action_name: Voir les projets
+    call_to_action_link: /projets
+
+  - title: Des machines qui dessinent
+    icon: fa-toolbox
+    description: >
+      Projet I2
+    call_to_action_name: Voir les projets
+    call_to_action_link: /projets
+
+  - title: Des machines qui resolvent des puzzles
+    description: >
+      Projet I3
+    icon: fa-cogs
+    call_to_action_name: Voir les projets
+    call_to_action_link: /projets
