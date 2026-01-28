@@ -1,23 +1,23 @@
 style: is-dark
 height: is-medium
 items:
-  - title: Otto - Le robot
+  - title: Projets ITEC
     icon: fa-info-circle
     description: >
-      Projet I1
+      Projets I2
     call_to_action_name: Voir les projets
-    call_to_action_link: /projets
+    call_to_action_link: /projets-ITEC-I2
 
-  - title: Des machines qui dessinent
+  - title: Projets GEB
     icon: fa-toolbox
     description: >
-      Projet I2
+      Projets I2
     call_to_action_name: Voir les projets
-    call_to_action_link: /projets
+    call_to_action_link: /projets-GEB
 
-  - title: Des machines qui resolvent des puzzles
+  - title: Projets Pluridisciplinaire
     description: >
-      Projet I3
+      Projets I3
     icon: fa-cogs
     call_to_action_name: Voir les projets
-    call_to_action_link: /projets
+    call_to_action_link: /projets-I3

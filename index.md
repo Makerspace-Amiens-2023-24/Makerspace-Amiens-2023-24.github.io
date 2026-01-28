@@ -1,6 +1,6 @@
 ---
-title: Hub projet
-subtitle: Template de site pour réaliser un hub projet
+title: Hub projet 2023-24
+subtitle: Les projets réalisés au MakerSpace d'Amiens sur l'année 2023-24
 layout: page
 hero_height: is-large
 hero_darken: true

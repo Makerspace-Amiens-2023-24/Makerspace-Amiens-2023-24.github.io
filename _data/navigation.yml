@@ -1,5 +1,9 @@
 - name: Projets
   link: 
   dropdown: 
-    - name: Promo-1
-      link: /projets/
+    - name: Projets ITEC I2
+      link: /projets-ITEC-I2/
+    - name: Projets GEB
+      link: /projets-GEB/
+    - name: Projets Pluridisciplinaire I3
+      link: /projets-I3/
